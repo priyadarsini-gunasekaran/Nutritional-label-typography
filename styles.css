@@ -93,3 +93,12 @@
   .daily-value p:not(.no-divider) {
     border-bottom: 1px solid #888989;
   }
+  .note {
+    font-size: 0.6rem;
+    margin: 5px 0;
+    text-indent: -8px;
+    padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 0;
+  padding-bottom: 0;
+  }
